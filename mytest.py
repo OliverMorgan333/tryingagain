@@ -1,3 +1,3 @@
 a = 'mytst'
 b = 'changed'
-print(a)
+print(b)
